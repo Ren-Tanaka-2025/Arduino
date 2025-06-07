@@ -2,9 +2,8 @@
 
 ## ①顔
 
-<a href="LED3.md">
-  <img src="a1-2.png" alt="顔の画像" width="70%">
-</a>
+[<img src="a1-2.png" alt="顔の画像" width="70%">](LED3.md)
+
 
 ## ②顔
 
@@ -15,3 +14,4 @@
 ## ①波
 
 [こちら](LED6.md)
+
