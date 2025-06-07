@@ -2,7 +2,7 @@
 
 ## ①顔のコード
 
-![](a1-2.jpg)
+![](a1-2.png)
 
 ```
 #include "Arduino_LED_Matrix.h"
