@@ -2,9 +2,7 @@
 
 ## 顔のコード
 
-<a href="README.md">
-  <img src="a1-2.jpg" alt="顔の画像" width="70%">
-</a>
+![](a1-2.jpg)
 
 ```
 #include "Arduino_LED_Matrix.h"
