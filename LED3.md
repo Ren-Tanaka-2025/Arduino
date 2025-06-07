@@ -1,3 +1,10 @@
+# Arduino
+
+## 顔のコード
+
+![](a1-2.jpg)
+
+```
 #include "Arduino_LED_Matrix.h"
 
 ArduinoLEDMatrix matrix;
@@ -22,4 +29,8 @@ void loop() {
 
 }
 
+```
 
+![](a1-1.png)
+
+[⇦ホームへ戻る](README.md)
