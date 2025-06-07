@@ -4,6 +4,10 @@
 
 ![](a1-2.jpg)
 
+<a href="README.md">
+  <img src="a1-2.jpg" alt="顔の画像" width="70%">
+</a>
+
 ```
 #include "Arduino_LED_Matrix.h"
 
