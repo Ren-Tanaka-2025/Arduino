@@ -8,6 +8,10 @@
 
 [<img src="a2-2.png" alt="顔の画像" width="70%">](LED4.md)
 
-## ①波
+## ①れん⇒REN
 
 [こちら](LED6.md)
+
+## ①波
+
+[こちら](LED7.md)
