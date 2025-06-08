@@ -1,6 +1,6 @@
 # Arduino
 
-## ①波のコード
+## ④波のコード
 
 [動画はこちら](https://vimeo.com/manage/videos/1091385713/131c013f34)
 
